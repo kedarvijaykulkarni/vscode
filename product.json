@@ -81,6 +81,19 @@
 				},
 				"publisherDisplayName": "Microsoft"
 			}
+		},
+		{
+			"name": "clinetool",
+			"version": "3.17.8",
+			"repo": "https://github.com/cline/cline",
+			"metadata": {
+				"publisherId": {
+					"publisherId": "saoudrizwan.claude-dev",
+					"publisherName": "Cline",
+					"displayName": "Cline",
+					"flags": "verified"
+				}
+			}
 		}
 	]
 }
